@@ -1,4 +1,3 @@
-"Happy Birthday #{kids_name}! You are now #{age} years old!"
 
 def happy_birthday(birthday_kids)
   happy_birthday(birthday_kids)
